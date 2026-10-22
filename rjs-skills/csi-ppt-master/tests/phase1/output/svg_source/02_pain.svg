@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="th-TH" data-pptx-page-role="content" font-family="Sarabun">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="header" data-pptx-bounds="60 28 1160 96">
+    <text x="60" y="52" font-size="17" font-weight="bold" fill="#E07A1F">1 · Discover Operation Pains</text>
+    <text x="60" y="98" font-size="34" font-weight="bold" fill="#0B2545">เครื่องปั๊มสาย A หยุดกะทันหัน 14 ครั้งต่อเดือน</text>
+    <line x1="60" y1="118" x2="1220" y2="118" stroke="#C9CED6" stroke-width="1" />
+  </g>
+  <g id="pain-1" data-pptx-bounds="60 140 740 116">
+    <circle cx="84" cy="168" r="20" fill="#0B2545" />
+    <text x="84" y="175" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+    <text x="120" y="176" font-size="24" font-weight="bold" fill="#0B2545">เครื่องหยุดโดยไม่มีสัญญาณเตือนล่วงหน้า</text>
+    <text x="120" y="212" font-size="22" fill="#2B2F36">เครื่องปั๊มสาย A หยุดเฉลี่ย 14 ครั้งต่อเดือน
+      <tspan x="120" dy="33">หัวหน้ากะต้องโทรตามช่างซ่อมเองทุกครั้ง</tspan></text>
+  </g>
+  <g id="pain-2" data-pptx-bounds="60 262 740 116">
+    <circle cx="84" cy="290" r="20" fill="#0B2545" />
+    <text x="84" y="297" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+    <text x="120" y="298" font-size="24" font-weight="bold" fill="#0B2545">ช่างรู้ว่าเครื่องเสียช้า รอเฉลี่ย 25 นาที</text>
+    <text x="120" y="334" font-size="22" fill="#2B2F36">ช่างซ่อมบำรุงรู้ก็ต่อเมื่อพนักงานหน้าเครื่องเดินมาแจ้ง
+      <tspan x="120" dy="33">จึงเริ่มซ่อมได้ช้ากว่าที่ควร</tspan></text>
+  </g>
+  <g id="pain-3" data-pptx-bounds="60 384 740 116">
+    <circle cx="84" cy="412" r="20" fill="#0B2545" />
+    <text x="84" y="419" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+    <text x="120" y="420" font-size="24" font-weight="bold" fill="#0B2545">ซีลไฮดรอลิกขาดสต็อก ต้องรอของ 3–5 วัน</text>
+    <text x="120" y="456" font-size="22" fill="#2B2F36">อะไหล่สำคัญหมดบ่อย ต้องรอสั่งซื้อ
+      <tspan x="120" dy="33">ทำให้ส่งชิ้นงานให้ลูกค้า OEM ไม่ทัน</tspan></text>
+  </g>
+  <g id="pain-4" data-pptx-bounds="60 506 740 116">
+    <circle cx="84" cy="534" r="20" fill="#0B2545" />
+    <text x="84" y="541" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4</text>
+    <text x="120" y="542" font-size="24" font-weight="bold" fill="#0B2545">ผู้จัดการเห็นตัวเลข OEE ย้อนหลังทุกสิ้นเดือน</text>
+    <text x="120" y="578" font-size="22" fill="#2B2F36">ตัวเลขมาจาก Excel ที่พนักงานกรอกมือ
+      <tspan x="120" dy="33">จึงตัดสินใจได้ช้าไปหนึ่งรอบเดือน</tspan></text>
+  </g>
+  <g id="impact-panel" data-pptx-bounds="840 140 380 482">
+    <rect x="840" y="140" width="380" height="482" fill="#F3F5F8" />
+    <rect x="840" y="140" width="6" height="482" fill="#E07A1F" />
+    <text x="872" y="184" font-size="17" font-weight="bold" fill="#E07A1F">ผลกระทบต่อธุรกิจ</text>
+    <text x="872" y="232" font-size="26" font-weight="bold" fill="#0B2545">ทุกปัญหาจบที่จุดเดียวกัน
+      <tspan x="872" dy="38">ชิ้นงานส่งลูกค้า OEM</tspan>
+      <tspan x="872" dy="38">ไม่ทันรอบ</tspan></text>
+    <text x="872" y="390" font-size="20" fill="#2B2F36">ตัวเลขฐานจากเอกสารโจทย์
+      <tspan x="872" dy="34">• หยุดกะทันหัน 14 ครั้ง/เดือน</tspan>
+      <tspan x="872" dy="34">• รอช่าง 25 นาที/ครั้ง</tspan>
+      <tspan x="872" dy="34">• อะไหล่ขาด 5 ครั้ง/เดือน</tspan>
+      <tspan x="872" dy="34">• OEE สาย A 61%</tspan></text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="60 664 1160 32" fill="#6B7280" font-size="14">
+    <text x="60" y="688">ข้อมูลสมมติเพื่อการทดสอบ · CSI Groups</text>
+    <text x="1220" y="688" text-anchor="end">2</text>
+  </g>
+</svg>

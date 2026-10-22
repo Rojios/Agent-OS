@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="th-TH" data-pptx-page-role="content" font-family="Sarabun">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="header" data-pptx-bounds="60 28 1160 96">
+    <text x="60" y="52" font-size="17" font-weight="bold" fill="#E07A1F">1 · ต้นทุนของการรอ (Cost of Inaction)</text>
+    <text x="60" y="98" font-size="34" font-weight="bold" fill="#0B2545">ทุกการหยุดเครื่องเสียเวลารอ 25 นาทีก่อนเริ่มซ่อม</text>
+    <line x1="60" y1="118" x2="1220" y2="118" stroke="#C9CED6" stroke-width="1" />
+  </g>
+  <g id="hero-wait" data-pptx-bounds="60 170 560 300">
+    <text x="60" y="380" font-size="180" font-weight="bold" fill="#E07A1F">25<tspan font-size="52" fill="#0B2545"> นาที</tspan></text>
+    <text x="60" y="440" font-size="22" fill="#2B2F36">เวลารอเฉลี่ยตั้งแต่เครื่องหยุด จนช่างเริ่มซ่อม</text>
+  </g>
+  <g id="monthly-total" data-pptx-bounds="680 190 540 280">
+    <line x1="680" y1="200" x2="680" y2="460" stroke="#C9CED6" stroke-width="1" />
+    <text x="716" y="236" font-size="22" fill="#2B2F36">รวมแล้วต่อเดือน เครื่องหยุดโดยยังไม่มีใครซ่อม</text>
+    <text x="716" y="320" font-size="64" font-weight="bold" fill="#0B2545">≈ 350 นาที</text>
+    <text x="716" y="372" font-size="22" fill="#2B2F36">14 ครั้ง × 25 นาที = 350 นาที (≈ 5.8 ชั่วโมง)</text>
+    <text x="716" y="412" font-size="17" fill="#6B7280">ค่าคำนวณจากตัวเลขในเอกสารโจทย์</text>
+  </g>
+  <g id="tbd-cost" data-pptx-bounds="60 520 1160 110">
+    <rect x="60" y="528" width="1160" height="94" fill="#FFFFFF" stroke="#E07A1F" stroke-width="2" stroke-dasharray="6,4" />
+    <text x="92" y="568" font-size="22" font-weight="bold" fill="#0B2545">มูลค่าความเสียหายต่อชั่วโมงที่เครื่องหยุด = [TBD]</text>
+    <text x="92" y="602" font-size="20" fill="#2B2F36">ต้องได้ตัวเลขจากฝ่ายผลิตของลูกค้าก่อน จึงจะคำนวณต้นทุนของการไม่ทำเป็นเงินบาทได้</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="60 664 1160 32" fill="#6B7280" font-size="14">
+    <text x="60" y="688">ข้อมูลสมมติเพื่อการทดสอบ · CSI Groups</text>
+    <text x="1220" y="688" text-anchor="end">4</text>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="th-TH" data-pptx-page-role="content" font-family="Sarabun">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="header" data-pptx-bounds="60 28 1160 96">
+    <text x="60" y="52" font-size="17" font-weight="bold" fill="#E07A1F">2 · Mapping to Data Pain</text>
+    <text x="60" y="98" font-size="34" font-weight="bold" fill="#0B2545">ปัญหาทั้ง 4 ข้อมีรากเดียวกัน: ข้อมูลเครื่องไม่ไหลถึงคนตัดสินใจ</text>
+    <line x1="60" y1="118" x2="1220" y2="118" stroke="#C9CED6" stroke-width="1" />
+  </g>
+  <g id="data-pain-table" data-pptx-bounds="60 146 1160 314" data-pptx-replace-with="table" data-pptx-fallback-sha256="53ace1dc37565d6025388625ff380f5ad9d4d741a4fdc3a6ee630eb7ee73aa14">
+    <metadata type="application/json">{"schema":"ppt-master.semantic-table.v2","name":"data-pain-table","x":60,"y":150,"width":1160,"height":306,"column_widths":[300,520,340],"row_heights":[50,64,64,64,64],"style":{"font_family":"Sarabun","font_size":20,"header_fill":"#0B2545","header_text":"#FFFFFF","body_text":"#2B2F36","band_row":false},"defaults":{"cell":{"align":"l","valign":"middle","padding":{"left":20,"right":12,"top":4,"bottom":4},"borders":{"left":{"style":"none"},"right":{"style":"none"},"top":{"style":"none"},"bottom":{"style":"solid","color":"#C9CED6","width":1}}}},"cell_styles":{"head":{"bold":true,"borders":{"left":{"style":"none"},"right":{"style":"none"},"top":{"style":"none"},"bottom":{"style":"none"}}},"first":{"bold":true,"color":"#0B2545"}},"columns":[{"text":"ปัญหาหน้างาน","cell_style":"head"},{"text":"ข้อมูลที่ขาด","cell_style":"head"},{"text":"ผลกระทบ","cell_style":"head"}],"rows":[[{"text":"เครื่องหยุดไม่ทันรู้ตัว","cell_style":"first"},"ไม่มีข้อมูลการสั่นสะเทือนและอุณหภูมิแบบเรียลไทม์","ซ่อมแบบตั้งรับ (reactive)"],[{"text":"รอช่างนาน","cell_style":"first"},"ไม่มีระบบแจ้งเตือนอัตโนมัติ (andon) ผูกกับ CMMS","เสียเวลารอ 25 นาที/ครั้ง"],[{"text":"อะไหล่ขาด","cell_style":"first"},"ประวัติการใช้อะไหล่ไม่ผูกกับประวัติเครื่อง","สั่งซื้อไม่ทันรอบ"],[{"text":"OEE ล่าช้า","cell_style":"first"},"ข้อมูลกรอกมือ ไม่มี single source of truth","ตัดสินใจย้อนหลัง 30 วัน"]]}</metadata>
+    <rect x="60" y="150" width="1160" height="50" fill="#0B2545" />
+    <g font-size="20" font-weight="bold" fill="#FFFFFF">
+      <text x="80" y="182">ปัญหาหน้างาน</text>
+      <text x="380" y="182">ข้อมูลที่ขาด</text>
+      <text x="900" y="182">ผลกระทบ</text>
+    </g>
+    <g stroke="#C9CED6" stroke-width="1">
+      <line x1="60" y1="264" x2="1220" y2="264" />
+      <line x1="60" y1="328" x2="1220" y2="328" />
+      <line x1="60" y1="392" x2="1220" y2="392" />
+      <line x1="60" y1="456" x2="1220" y2="456" />
+    </g>
+    <g font-size="20" font-weight="bold" fill="#0B2545">
+      <text x="80" y="239">เครื่องหยุดไม่ทันรู้ตัว</text>
+      <text x="80" y="303">รอช่างนาน</text>
+      <text x="80" y="367">อะไหล่ขาด</text>
+      <text x="80" y="431">OEE ล่าช้า</text>
+    </g>
+    <g font-size="20" fill="#2B2F36">
+      <text x="380" y="239">ไม่มีข้อมูลการสั่นสะเทือนและอุณหภูมิแบบเรียลไทม์</text>
+      <text x="380" y="303">ไม่มีระบบแจ้งเตือนอัตโนมัติ (andon) ผูกกับ CMMS</text>
+      <text x="380" y="367">ประวัติการใช้อะไหล่ไม่ผูกกับประวัติเครื่อง</text>
+      <text x="380" y="431">ข้อมูลกรอกมือ ไม่มี single source of truth</text>
+      <text x="900" y="239">ซ่อมแบบตั้งรับ (reactive)</text>
+      <text x="900" y="303">เสียเวลารอ 25 นาที/ครั้ง</text>
+      <text x="900" y="367">สั่งซื้อไม่ทันรอบ</text>
+      <text x="900" y="431">ตัดสินใจย้อนหลัง 30 วัน</text>
+    </g>
+  </g>
+  <g id="implication" data-pptx-bounds="60 486 1160 140">
+    <rect x="60" y="490" width="1160" height="132" fill="#F3F5F8" />
+    <rect x="60" y="490" width="6" height="132" fill="#E07A1F" />
+    <text x="92" y="532" font-size="24" font-weight="bold" fill="#0B2545">ข้อมูลเครื่องจักรไม่ถูกเก็บและส่งต่ออัตโนมัติ จึงต้องแก้ที่การไหลของข้อมูลก่อน</text>
+    <text x="92" y="572" font-size="20" fill="#2B2F36">การเพิ่มจำนวนช่างหรือเพิ่มสต็อกอะไหล่ ไม่ได้แก้ต้นเหตุทั้ง 4 ข้อในตาราง</text>
+    <text x="92" y="604" font-size="17" fill="#6B7280">การตีความของทีมจากตารางนี้ ไม่ใช่ข้อมูลจากเอกสารโจทย์</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="60 664 1160 32" fill="#6B7280" font-size="14">
+    <text x="60" y="688">ข้อมูลสมมติเพื่อการทดสอบ · CSI Groups</text>
+    <text x="1220" y="688" text-anchor="end">3</text>
+  </g>
+</svg>

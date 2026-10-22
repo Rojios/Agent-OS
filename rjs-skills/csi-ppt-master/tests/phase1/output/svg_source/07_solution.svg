@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="th-TH" data-pptx-page-role="content" font-family="Sarabun">
+  <defs>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#0B2545" />
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="header" data-pptx-bounds="60 28 1160 96">
+    <text x="60" y="52" font-size="17" font-weight="bold" fill="#E07A1F">4 · Solution Finding</text>
+    <text x="60" y="98" font-size="34" font-weight="bold" fill="#0B2545">4 ส่วนของระบบทำงานต่อกัน ตั้งแต่เซนเซอร์ถึงใบสั่งซ่อม</text>
+    <line x1="60" y1="118" x2="1220" y2="118" stroke="#C9CED6" stroke-width="1" />
+  </g>
+  <g id="node-sensor" data-pptx-bounds="60 196 360 330">
+    <rect x="60" y="200" width="360" height="322" rx="12" fill="#0B2545" />
+    <circle cx="104" cy="248" r="22" fill="#E07A1F" />
+    <text x="104" y="256" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+    <text x="92" y="312" font-size="26" font-weight="bold" fill="#FFFFFF">เซนเซอร์ IoT
+      <tspan x="92" dy="36">บนเครื่องปั๊ม 6 เครื่อง</tspan></text>
+    <text x="92" y="400" font-size="20" fill="#D5DCE6">วัดการสั่นสะเทือน อุณหภูมิ
+      <tspan x="92" dy="30">และแรงดันไฮดรอลิก</tspan>
+      <tspan x="92" dy="30">แบบเรียลไทม์</tspan></text>
+    <text x="92" y="500" font-size="17" font-weight="bold" fill="#F6C99A">แก้ปัญหาข้อ 1 · ต้นทางข้อมูลของทุกส่วน</text>
+  </g>
+  <g id="flow-links" data-pptx-bounds="420 210 140 340" stroke="#0B2545" stroke-width="2">
+    <line x1="420" y1="361" x2="552" y2="220" marker-end="url(#arrowHead)" />
+    <line x1="420" y1="361" x2="552" y2="380" marker-end="url(#arrowHead)" />
+    <line x1="420" y1="361" x2="552" y2="540" marker-end="url(#arrowHead)" />
+  </g>
+  <g id="node-dashboard" data-pptx-bounds="560 150 660 140">
+    <rect x="560" y="150" width="660" height="140" rx="12" fill="#F3F5F8" />
+    <circle cx="600" cy="194" r="20" fill="#0B2545" />
+    <text x="600" y="201" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+    <text x="636" y="202" font-size="24" font-weight="bold" fill="#0B2545">แดชบอร์ด OEE เรียลไทม์</text>
+    <text x="1196" y="200" font-size="17" font-weight="bold" fill="#E07A1F" text-anchor="end">แก้ปัญหาข้อ 4</text>
+    <text x="636" y="250" font-size="20" fill="#2B2F36">แทน Excel ที่กรอกมือ ผู้จัดการไม่ต้องรอสรุปทุกสิ้นเดือน</text>
+  </g>
+  <g id="node-cmms" data-pptx-bounds="560 310 660 140">
+    <rect x="560" y="310" width="660" height="140" rx="12" fill="#F3F5F8" />
+    <circle cx="600" cy="354" r="20" fill="#0B2545" />
+    <text x="600" y="361" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+    <text x="636" y="362" font-size="24" font-weight="bold" fill="#0B2545">เชื่อม CMMS เปิดใบสั่งซ่อมอัตโนมัติ</text>
+    <text x="1196" y="360" font-size="17" font-weight="bold" fill="#E07A1F" text-anchor="end">แก้ปัญหาข้อ 2</text>
+    <text x="636" y="410" font-size="20" fill="#2B2F36">เมื่อค่าผิดปกติ ช่างได้รับงานทันที ไม่ต้องรอคนเดินมาแจ้ง</text>
+  </g>
+  <g id="node-spare" data-pptx-bounds="560 470 660 140">
+    <rect x="560" y="470" width="660" height="140" rx="12" fill="#F3F5F8" />
+    <circle cx="600" cy="514" r="20" fill="#0B2545" />
+    <text x="600" y="521" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4</text>
+    <text x="636" y="522" font-size="24" font-weight="bold" fill="#0B2545">เตือนอะไหล่ใกล้หมด</text>
+    <text x="1196" y="520" font-size="17" font-weight="bold" fill="#E07A1F" text-anchor="end">แก้ปัญหาข้อ 3</text>
+    <text x="636" y="570" font-size="20" fill="#2B2F36">คำนวณจากอัตราการใช้อะไหล่จริงของแต่ละเครื่อง</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="60 664 1160 32" fill="#6B7280" font-size="14">
+    <text x="60" y="688">ข้อมูลสมมติเพื่อการทดสอบ · CSI Groups · หมายเลข “ปัญหาข้อ” อ้างอิงหน้า 2</text>
+    <text x="1220" y="688" text-anchor="end">7</text>
+  </g>
+</svg>

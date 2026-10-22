@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="th-TH" data-pptx-page-role="content" font-family="Sarabun">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="header" data-pptx-bounds="60 28 1160 96">
+    <text x="60" y="52" font-size="17" font-weight="bold" fill="#E07A1F">4 · Solution Finding — แผนดำเนินงาน</text>
+    <text x="60" y="98" font-size="34" font-weight="bold" fill="#0B2545">3 ระยะ 6 เดือน: เก็บข้อมูลฐาน → เปิดแจ้งเตือน → วัดผล</text>
+    <line x1="60" y1="118" x2="1220" y2="118" stroke="#C9CED6" stroke-width="1" />
+  </g>
+  <g id="phase-1" data-pptx-bounds="60 146 380 280">
+    <g id="p08-phase1-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="60 150 380 92" fill="#0B2545" stroke="none">
+<path d="M 60 150 L 394 150 L 440 196 L 394 242 L 60 242 Z" />
+</g>
+    <text x="88" y="205" font-size="26" font-weight="bold" fill="#FFFFFF">เดือน 1–2</text>
+    <text x="76" y="292" font-size="22" font-weight="bold" fill="#0B2545">ติดตั้งและเก็บข้อมูลฐาน</text>
+    <text x="76" y="336" font-size="20" fill="#2B2F36">• ติดเซนเซอร์บนเครื่องปั๊ม 6 เครื่อง
+      <tspan x="76" dy="34">• เก็บค่าฐานของ 4 ตัวชี้วัด</tspan></text>
+  </g>
+  <g id="phase-2" data-pptx-bounds="450 146 380 280">
+    <g id="p08-phase2-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="450 150 380 92" fill="#13315C" stroke="none">
+<path d="M 450 150 L 784 150 L 830 196 L 784 242 L 450 242 L 496 196 Z" />
+</g>
+    <text x="516" y="205" font-size="26" font-weight="bold" fill="#FFFFFF">เดือน 3–4</text>
+    <text x="466" y="292" font-size="22" font-weight="bold" fill="#0B2545">เปิดใช้แจ้งเตือนและ CMMS</text>
+    <text x="466" y="336" font-size="20" fill="#2B2F36">• แจ้งเตือนเมื่อค่าผิดปกติ
+      <tspan x="466" dy="34">• เปิดใบสั่งซ่อมอัตโนมัติผ่าน CMMS</tspan></text>
+  </g>
+  <g id="phase-3" data-pptx-bounds="840 146 380 280">
+    <g id="p08-phase3-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="840 150 380 92" fill="#E07A1F" stroke="none">
+<path d="M 840 150 L 1174 150 L 1220 196 L 1174 242 L 840 242 L 886 196 Z" />
+</g>
+    <text x="906" y="205" font-size="26" font-weight="bold" fill="#FFFFFF">เดือน 5–6</text>
+    <text x="856" y="292" font-size="22" font-weight="bold" fill="#0B2545">ปรับเกณฑ์และวัดผล</text>
+    <text x="856" y="336" font-size="20" fill="#2B2F36">• ปรับเกณฑ์แจ้งเตือนจากข้อมูลจริง
+      <tspan x="856" dy="34">• วัดผลเทียบเป้า 4 ตัวชี้วัด</tspan></text>
+  </g>
+  <g id="decision-gate" data-pptx-bounds="60 450 1160 176">
+    <rect x="60" y="454" width="1160" height="168" rx="12" fill="#FFFFFF" stroke="#0B2545" stroke-width="2" />
+    <text x="92" y="496" font-size="17" font-weight="bold" fill="#E07A1F">จุดตัดสินใจเมื่อจบเดือนที่ 6</text>
+    <text x="92" y="540" font-size="26" font-weight="bold" fill="#0B2545">ถ้าผลถึงเป้า 4 ตัวชี้วัด → เสนอขยายไปทั้งโรงงาน</text>
+    <text x="92" y="584" font-size="20" fill="#2B2F36">เกณฑ์ตัดสินว่า “ถึงเป้า” และงบประมาณระยะขยาย = [TBD] ต้องตกลงร่วมกับลูกค้าก่อนเริ่มเดือนที่ 1</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="60 664 1160 32" fill="#6B7280" font-size="14">
+    <text x="60" y="688">ข้อมูลสมมติเพื่อการทดสอบ · CSI Groups</text>
+    <text x="1220" y="688" text-anchor="end">8</text>
+  </g>
+</svg>

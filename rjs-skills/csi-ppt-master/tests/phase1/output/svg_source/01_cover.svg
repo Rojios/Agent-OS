@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="th-TH" data-pptx-page-role="cover" font-family="Sarabun">
+  <rect id="cover-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B2545"/>
+  <rect id="cover-accent-bar" data-pptx-role="decoration" x="60" y="132" width="6" height="200" fill="#E07A1F"/>
+  <g id="cover-kicker" data-pptx-bounds="88 96 1132 40">
+    <text x="88" y="124" font-size="22" fill="#F6C99A">ข้อเสนอโครงการนำร่อง · บริษัท สยามออโต้พาร์ท จำกัด (นามสมมติ)</text>
+  </g>
+  <g id="cover-title" data-pptx-bounds="88 140 1132 150" font-size="52" font-weight="bold" fill="#FFFFFF">
+    <text x="88" y="200">ลดเวลาหยุดเครื่องที่ไม่ได้วางแผน <tspan fill="#F6A55B">30%</tspan>
+      <tspan x="88" dy="70">ภายใน 6 เดือน</tspan></text>
+  </g>
+  <g id="cover-subtitle" data-pptx-bounds="88 300 1132 44">
+    <text x="88" y="330" font-size="24" fill="#D5DCE6">นำร่องเครื่องปั๊ม 6 เครื่องในสาย A — เปลี่ยนจากซ่อมเมื่อเสีย เป็นซ่อมตามสภาพเครื่อง</text>
+  </g>
+  <g id="cover-hook" data-pptx-bounds="88 400 1132 190">
+    <rect x="88" y="410" width="560" height="170" rx="12" fill="#13315C"/>
+    <text x="120" y="510" font-size="96" font-weight="bold" fill="#FFFFFF">42 <tspan fill="#F6A55B">→ 29</tspan></text>
+    <text x="120" y="556" font-size="20" fill="#D5DCE6">ชั่วโมงหยุดเครื่องต่อเดือน (ปัจจุบัน → เป้าหมาย)</text>
+    <text x="690" y="470" font-size="22" fill="#FFFFFF">ไล่ตามกรอบ DXC 4 ขั้น</text>
+    <text x="690" y="510" font-size="20" fill="#D5DCE6">Discover Operation Pains → Mapping to Data Pain
+      <tspan x="690" dy="32">→ Strategic Design → Solution Finding</tspan></text>
+  </g>
+  <g id="cover-footer" data-pptx-role="footer" data-pptx-bounds="60 650 1160 46">
+    <text x="88" y="682" font-size="16" fill="#9AA8BC">CSI Groups · ตุลาคม 2569 · เอกสารทดสอบ ข้อมูลทั้งหมดเป็นข้อมูลสมมติ</text>
+  </g>
+</svg>

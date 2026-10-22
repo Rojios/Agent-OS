@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="th-TH" data-pptx-page-role="content" font-family="Sarabun">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="header" data-pptx-bounds="60 28 1160 96">
+    <text x="60" y="52" font-size="17" font-weight="bold" fill="#E07A1F">3 · Strategic Design</text>
+    <text x="60" y="98" font-size="34" font-weight="bold" fill="#0B2545">เปลี่ยนจากซ่อมเมื่อเสีย เป็นซ่อมตามสภาพเครื่อง โดยเริ่มที่สาย A</text>
+    <line x1="60" y1="118" x2="1220" y2="118" stroke="#C9CED6" stroke-width="1" />
+  </g>
+  <g id="today" data-pptx-bounds="60 146 504 330">
+    <rect x="60" y="150" width="504" height="322" rx="12" fill="#F3F5F8" />
+    <text x="92" y="194" font-size="17" font-weight="bold" fill="#6B7280">วันนี้</text>
+    <text x="92" y="234" font-size="26" font-weight="bold" fill="#0B2545">ซ่อมเมื่อเสีย (reactive)</text>
+    <text x="92" y="292" font-size="22" fill="#2B2F36">• รู้ว่าเครื่องเสียเมื่อมันหยุดแล้ว
+      <tspan x="92" dy="44">• ช่างรอคนเดินมาแจ้ง ไม่มีข้อมูลล่วงหน้า</tspan>
+      <tspan x="92" dy="44">• สั่งอะไหล่หลังของหมด</tspan>
+      <tspan x="92" dy="44">• สรุป OEE ทุกสิ้นเดือนจาก Excel</tspan></text>
+  </g>
+  <g id="p05-shift-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="584 268 112 84" fill="#E07A1F" stroke="none">
+<path d="M 584 289 L 654 289 L 654 268 L 696 310 L 654 352 L 654 331 L 584 331 Z" />
+</g>
+  <g id="target" data-pptx-bounds="716 146 504 330">
+    <rect x="716" y="150" width="504" height="322" rx="12" fill="#FFFFFF" stroke="#0B2545" stroke-width="2" />
+    <text x="748" y="194" font-size="17" font-weight="bold" fill="#E07A1F">เป้าหมาย</text>
+    <text x="748" y="234" font-size="26" font-weight="bold" fill="#0B2545">ซ่อมตามสภาพเครื่อง</text>
+    <text x="748" y="292" font-size="22" fill="#2B2F36">• เซนเซอร์บอกความผิดปกติก่อนเครื่องหยุด
+      <tspan x="748" dy="44">• ใบสั่งซ่อมเปิดอัตโนมัติ ช่างรู้ทันที</tspan>
+      <tspan x="748" dy="44">• เตือนสั่งอะไหล่ตามอัตราการใช้จริง</tspan>
+      <tspan x="748" dy="44">• เห็น OEE แบบเรียลไทม์</tspan></text>
+  </g>
+  <g id="pilot-scope" data-pptx-bounds="60 500 1160 126">
+    <rect x="60" y="504" width="1160" height="118" fill="#0B2545" />
+    <text x="92" y="546" font-size="17" font-weight="bold" fill="#F6C99A">ขอบเขตนำร่อง</text>
+    <text x="92" y="590" font-size="22" font-weight="bold" fill="#FFFFFF">สาย A · เครื่องปั๊ม 6 เครื่อง → ขยายทั้งโรงงานหลังวัดผล</text>
+    <text x="730" y="546" font-size="17" font-weight="bold" fill="#F6C99A">เป้าหมายหลัก</text>
+    <text x="730" y="590" font-size="22" font-weight="bold" fill="#FFFFFF">ลด unplanned downtime 30% ใน 6 เดือน</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="60 664 1160 32" fill="#6B7280" font-size="14">
+    <text x="60" y="688">ข้อมูลสมมติเพื่อการทดสอบ · CSI Groups</text>
+    <text x="1220" y="688" text-anchor="end">5</text>
+  </g>
+</svg>

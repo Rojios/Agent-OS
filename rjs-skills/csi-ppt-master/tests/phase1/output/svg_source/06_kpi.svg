@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="th-TH" data-pptx-page-role="content" font-family="Sarabun">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="header" data-pptx-bounds="60 28 1160 96">
+    <text x="60" y="52" font-size="17" font-weight="bold" fill="#E07A1F">3 · Strategic Design — ตัวชี้วัด</text>
+    <text x="60" y="98" font-size="34" font-weight="bold" fill="#0B2545">ตั้งเป้า 4 ตัวชี้วัด วัดผลได้ภายใน 6 เดือน</text>
+    <line x1="60" y1="118" x2="1220" y2="118" stroke="#C9CED6" stroke-width="1" />
+  </g>
+  <g id="kpi-table" data-pptx-bounds="60 150 690 320" data-pptx-replace-with="table" data-pptx-fallback-sha256="9fa262058ad3b2b1c2f9711d428a41534853a5a61d6a44772c558d1987accd05">
+    <metadata type="application/json">{"schema":"ppt-master.semantic-table.v2","name":"kpi-table","x":60,"y":160,"width":690,"height":306,"column_widths":[360,130,200],"row_heights":[50,64,64,64,64],"style":{"font_family":"Sarabun","font_size":20,"header_fill":"#0B2545","header_text":"#FFFFFF","body_text":"#2B2F36","band_row":false},"defaults":{"cell":{"valign":"middle","padding":{"left":20,"right":20,"top":4,"bottom":4},"borders":{"left":{"style":"none"},"right":{"style":"none"},"top":{"style":"none"},"bottom":{"style":"solid","color":"#C9CED6","width":1}}}},"cell_styles":{"head":{"bold":true,"borders":{"left":{"style":"none"},"right":{"style":"none"},"top":{"style":"none"},"bottom":{"style":"none"}}},"kpi":{"align":"l","bold":true,"color":"#0B2545"},"now":{"align":"r"},"goal":{"align":"r","bold":true,"color":"#0B2545","fill":"#FBE9D7"}},"columns":[{"text":"ตัวชี้วัด (KPI)","cell_style":"head","align":"l"},{"text":"ปัจจุบัน","cell_style":"head","align":"r"},{"text":"เป้าหมาย 6 เดือน","cell_style":"head","align":"r"}],"rows":[[{"text":"Unplanned downtime (ชม./เดือน)","cell_style":"kpi"},{"text":"42","cell_style":"now"},{"text":"29","cell_style":"goal"}],[{"text":"เวลารอช่าง (นาที/ครั้ง)","cell_style":"kpi"},{"text":"25","cell_style":"now"},{"text":"8","cell_style":"goal"}],[{"text":"OEE สาย A","cell_style":"kpi"},{"text":"61%","cell_style":"now"},{"text":"70%","cell_style":"goal"}],[{"text":"อะไหล่สำคัญขาดสต็อก (ครั้ง/เดือน)","cell_style":"kpi"},{"text":"5","cell_style":"now"},{"text":"1","cell_style":"goal"}]]}</metadata>
+    <rect x="60" y="160" width="690" height="50" fill="#0B2545" />
+    <rect x="550" y="210" width="200" height="256" fill="#FBE9D7" />
+    <g font-size="20" font-weight="bold" fill="#FFFFFF">
+      <text x="80" y="192">ตัวชี้วัด (KPI)</text>
+      <text x="530" y="192" text-anchor="end">ปัจจุบัน</text>
+      <text x="730" y="192" text-anchor="end">เป้าหมาย 6 เดือน</text>
+    </g>
+    <g stroke="#C9CED6" stroke-width="1">
+      <line x1="60" y1="274" x2="750" y2="274" />
+      <line x1="60" y1="338" x2="750" y2="338" />
+      <line x1="60" y1="402" x2="750" y2="402" />
+      <line x1="60" y1="466" x2="750" y2="466" />
+    </g>
+    <g font-size="20" font-weight="bold" fill="#0B2545">
+      <text x="80" y="249">Unplanned downtime (ชม./เดือน)</text>
+      <text x="80" y="313">เวลารอช่าง (นาที/ครั้ง)</text>
+      <text x="80" y="377">OEE สาย A</text>
+      <text x="80" y="441">อะไหล่สำคัญขาดสต็อก (ครั้ง/เดือน)</text>
+    </g>
+    <g font-size="20" fill="#2B2F36" text-anchor="end">
+      <text x="530" y="249">42</text>
+      <text x="530" y="313">25</text>
+      <text x="530" y="377">61%</text>
+      <text x="530" y="441">5</text>
+    </g>
+    <g font-size="20" font-weight="bold" fill="#0B2545" text-anchor="end">
+      <text x="730" y="249">29</text>
+      <text x="730" y="313">8</text>
+      <text x="730" y="377">70%</text>
+      <text x="730" y="441">1</text>
+    </g>
+  </g>
+  <g id="downtime-chart" data-pptx-bounds="790 150 430 450" data-pptx-replace-with="chart" data-pptx-fallback-sha256="ad79746b048b099892c194ae84b2ceae3f0a34f41f2dc37fd5b2335519c5f890">
+    <metadata type="application/json">{"name":"downtime-chart","x":790,"y":160,"width":430,"height":430,"type":"column","title":{"text":"Unplanned downtime (ชม./เดือน)","font_size":18,"color":"#0B2545"},"categories":["ปัจจุบัน","เป้าหมาย 6 เดือน"],"series":[{"name":"Unplanned downtime (ชม./เดือน)","values":[42,29],"point_colors":["#9AA3AF","#E07A1F"]}],"gap_width":73,"plot_area":{"x":820,"y":240,"width":380,"height":300},"data_labels":{"show_value":true,"position":"outside_end","font_size":22,"bold":true,"colors":["#0B2545","#E07A1F"]},"axes":{"category":{"tick_marks":"none"},"value":{"visible":false,"minimum":0,"maximum":50,"major_gridlines":false}},"show_legend":false,"style":{"font_family":"Sarabun","axis_color":"#C9CED6","text_color":"#0B2545"}}</metadata>
+    <text x="820" y="196" font-size="18" font-weight="bold" fill="#0B2545">Unplanned downtime (ชม./เดือน)</text>
+    <g id="downtime-chart-chartArea">
+      <line id="downtime-axis" x1="820" y1="540" x2="1200" y2="540" stroke="#C9CED6" stroke-width="1" />
+      <!-- chart-plot-area: object=downtime-chart | 820,240,1200,540 -->
+      <rect x="860" y="288" width="110" height="252" fill="#9AA3AF" />
+      <rect x="1050" y="366" width="110" height="174" fill="#E07A1F" />
+    </g>
+    <g font-size="22" font-weight="bold" text-anchor="middle">
+      <text x="915" y="276" fill="#0B2545">42</text>
+      <text x="1105" y="354" fill="#E07A1F">29</text>
+    </g>
+    <g font-size="18" fill="#2B2F36" text-anchor="middle">
+      <text x="915" y="572">ปัจจุบัน</text>
+      <text x="1105" y="572">เป้าหมาย 6 เดือน</text>
+    </g>
+  </g>
+  <g id="kpi-implication" data-pptx-bounds="60 496 690 130">
+    <rect x="60" y="500" width="690" height="122" fill="#F3F5F8" />
+    <rect x="60" y="500" width="6" height="122" fill="#E07A1F" />
+    <text x="92" y="542" font-size="22" font-weight="bold" fill="#0B2545">วัดผลทั้ง 4 ตัวจากแดชบอร์ดเดียวกัน แทน Excel</text>
+    <text x="92" y="580" font-size="20" fill="#2B2F36">ตัวเลขฐานทั้งหมดต้องยืนยันหน้างานก่อนเริ่มโครงการ
+      <tspan x="92" dy="30">(ดูขั้นถัดไปหน้า 9)</tspan></text>
+  </g>
+  <g id="chart-note" data-pptx-bounds="790 600 430 34">
+    <text x="820" y="624" font-size="17" fill="#6B7280">ลดลง 13 ชม./เดือน (≈31%) สอดคล้องเป้าลด 30%</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="60 664 1160 32" fill="#6B7280" font-size="14">
+    <text x="60" y="688">ข้อมูลสมมติเพื่อการทดสอบ · CSI Groups</text>
+    <text x="1220" y="688" text-anchor="end">6</text>
+  </g>
+</svg>

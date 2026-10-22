@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="th-TH" data-pptx-page-role="ending" font-family="Sarabun">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="header" data-pptx-bounds="60 28 1160 96">
+    <text x="60" y="52" font-size="17" font-weight="bold" fill="#E07A1F">ขั้นถัดไป</text>
+    <text x="60" y="98" font-size="34" font-weight="bold" fill="#0B2545">ขอนัดสำรวจหน้างานสาย A เพื่อยืนยันตัวเลขฐานและงบประมาณ</text>
+    <line x1="60" y1="118" x2="1220" y2="118" stroke="#C9CED6" stroke-width="1" />
+  </g>
+  <g id="ask-1" data-pptx-bounds="60 146 700 140">
+    <text x="60" y="226" font-size="72" font-weight="bold" fill="#E07A1F">1</text>
+    <text x="124" y="196" font-size="24" font-weight="bold" fill="#0B2545">สำรวจหน้างานสาย A และยืนยันตัวเลขฐาน</text>
+    <text x="124" y="234" font-size="20" fill="#2B2F36">ตรวจตัวชี้วัดทั้ง 4 ตัวเทียบกับบันทึกจริงของโรงงาน</text>
+    <text x="124" y="268" font-size="17" fill="#6B7280">ผู้รับผิดชอบ / วันที่: [TBD]</text>
+  </g>
+  <g id="ask-2" data-pptx-bounds="60 300 700 140">
+    <text x="60" y="380" font-size="72" font-weight="bold" fill="#E07A1F">2</text>
+    <text x="124" y="350" font-size="24" font-weight="bold" fill="#0B2545">เปิดข้อมูลระบบ CMMS ที่ใช้อยู่</text>
+    <text x="124" y="388" font-size="20" fill="#2B2F36">เพื่อออกแบบการเปิดใบสั่งซ่อมอัตโนมัติ</text>
+    <text x="124" y="422" font-size="17" fill="#6B7280">ผู้รับผิดชอบ / วันที่: [TBD]</text>
+  </g>
+  <g id="ask-3" data-pptx-bounds="60 454 700 140">
+    <text x="60" y="534" font-size="72" font-weight="bold" fill="#E07A1F">3</text>
+    <text x="124" y="504" font-size="24" font-weight="bold" fill="#0B2545">กำหนดผู้รับผิดชอบฝั่งลูกค้าและเกณฑ์วัดผล</text>
+    <text x="124" y="542" font-size="20" fill="#2B2F36">ตกลงว่าแบบไหนนับว่า “ถึงเป้า” ก่อนเริ่มเดือนที่ 1</text>
+    <text x="124" y="576" font-size="17" fill="#6B7280">ผู้รับผิดชอบ / วันที่: [TBD]</text>
+  </g>
+  <g id="tbd-panel" data-pptx-bounds="800 146 420 480">
+    <rect x="800" y="150" width="420" height="472" rx="12" fill="#0B2545" />
+    <text x="832" y="196" font-size="17" font-weight="bold" fill="#F6C99A">ยังไม่มีในเอกสารโจทย์ = [TBD]</text>
+    <text x="832" y="244" font-size="24" font-weight="bold" fill="#FFFFFF">ข้อมูลที่ต้องได้ก่อน
+      <tspan x="832" dy="34">ทำข้อเสนอฉบับจริง</tspan></text>
+    <text x="832" y="344" font-size="22" fill="#D5DCE6">• งบประมาณโครงการ
+      <tspan x="832" dy="44">• ROI และระยะคืนทุน</tspan>
+      <tspan x="832" dy="44">• รายชื่อทีมงาน</tspan>
+      <tspan x="832" dy="44">• มูลค่าความเสียหายต่อชั่วโมง</tspan>
+      <tspan x="832" dy="44">• เกณฑ์ “ถึงเป้า” ของโครงการ</tspan></text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="60 664 1160 32" fill="#6B7280" font-size="14">
+    <text x="60" y="688">ข้อมูลสมมติเพื่อการทดสอบ · CSI Groups</text>
+    <text x="1220" y="688" text-anchor="end">9</text>
+  </g>
+</svg>
